@@ -84,5 +84,5 @@ AI 기반 개발 자동화 플랫폼을 만들고 있습니다.
 </p>
 
 <p align="center">
-  <em>© 2024 DCC Lab Inc. — Flow is the new code.</em>
+  <em>© 2026 DCC Lab Inc. — Flow is the new code.</em>
 </p>
